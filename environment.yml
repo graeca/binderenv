@@ -5,5 +5,12 @@ dependencies:
   - python
   - numpy
   - pip
+  - tesseract
   - pip:
     - matplotlib
+    - opencv-contrib-python==3.4.5.20
+    - pytesseract
+    - scipy
+    - sklearn
+    - dtw
+    - fastdtw
