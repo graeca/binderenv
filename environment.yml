@@ -1,4 +1,5 @@
-name: example-environment
+#conda env create -f environment.yml
+name: py-go-environment
 channels:
   - conda-forge
 dependencies:
