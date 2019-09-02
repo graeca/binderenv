@@ -1,1 +1,4 @@
+#!/bin/bash
+
+
 git clone https://github.com/graeca/cookbook-2nd.git
