@@ -1,0 +1,80 @@
+[{
+  "Author_Name": "Basilius Caesariensis_PG 29-32",
+  "Work_Url": "Adversus Eunomium.pdf.txt",
+  "Work_Title": "api/pg/Basilius Caesariensis_PG 29-32/Adversus Eunomium.pdf.txt",
+  "Fragment_Url": "api/fragments/#0-8",
+  "Occurences_List": [15,33,93],
+  "Maxfreq": 3
+},
+{
+  "Author_Name": "Basilius Caesariensis_PG 29-32",
+  "Work_Url": "Adversus Eunomium.pdf.txt",
+  "Work_Title": "api/pg/Basilius Caesariensis_PG 29-32/Adversus Eunomium.pdf.txt",
+  "Fragment_Url": "api/fragments/#0-53",
+ "Occurences_List": [15,33,93],
+  "Maxfreq": 6
+},
+{
+  "Author_Name": "Basilius Caesariensis_PG 29-32",
+  "Work_Url": "Adversus Eunomium.pdf.txt",
+  "Work_Title": "api/pg/Basilius Caesariensis_PG 29-32/Adversus Eunomium.pdf.txt",
+  "Fragment_Url": "api/fragments/#0-53",
+ "Occurences_List": [15,33,93],
+  "Maxfreq": 6
+},
+{
+  "Author_Name": "Basilius Caesariensis_PG 29-32",
+  "Work_Url": "Adversus Eunomium.pdf.txt",
+  "Work_Title": "api/pg/Basilius Caesariensis_PG 29-32/Adversus Eunomium.pdf.txt",
+  "Fragment_Url": "api/fragments/#0-53",
+ "Occurences_List": [15,33,93],
+  "Maxfreq": 6
+},
+{
+  "Author_Name": "Basilius Caesariensis_PG 29-32",
+  "Work_Url": "Adversus Eunomium.pdf.txt",
+  "Work_Title": "api/pg/Basilius Caesariensis_PG 29-32/Adversus Eunomium.pdf.txt",
+  "Fragment_Url": "api/fragments/#0-128",
+   "Occurences_List": [15,33,93],
+  "Maxfreq": 11
+},
+{
+  "Author_Name": "Basilius Caesariensis_PG 29-32",
+  "Work_Url": "Asceticon magnum.pdf.txt",
+  "Work_Title": "api/pg/Basilius Caesariensis_PG 29-32/Asceticon magnum.pdf.txt",
+  "Fragment_Url": "api/fragments/#3-23",
+   "Occurences_List": [15,33,93],
+  "Maxfreq": 9
+},
+{
+  "Author_Name": "Basilius Caesariensis_PG 29-32",
+  "Work_Url": "Constitutiones asceticae.pdf.txt",
+  "Work_Title": "api/pg/Basilius Caesariensis_PG 29-32/Constitutiones asceticae.pdf.txt",
+  "Fragment_Url": "api/fragments/#6-26",
+   "Occurences_List": [15,33,93],
+  "Maxfreq": 14
+},
+{
+  "Author_Name": "Basilius Caesariensis_PG 29-32",
+  "Work_Url": "Enarratio in prophetam Isaiam.pdf.txt",
+  "Work_Title": "api/pg/Basilius Caesariensis_PG 29-32/Enarratio in prophetam Isaiam.pdf.txt",
+  "Fragment_Url": "api/fragments/#9-0",
+   "Occurences_List": [15,33,93],
+  "Maxfreq": 10
+},
+{
+  "Author_Name": "Basilius Caesariensis_PG 29-32",
+  "Work_Url": "Enarratio in prophetam Isaiam.pdf.txt",
+  "Work_Title": "api/pg/Basilius Caesariensis_PG 29-32/Enarratio in prophetam Isaiam.pdf.txt",
+  "Fragment_Url": "api/fragments/#9-4",
+   "Occurences_List": [15,33,93],
+  "Maxfreq": 11
+},
+{
+  "Author_Name": "Basilius Caesariensis_PG 29-32",
+  "Work_Url": "Enarratio in prophetam Isaiam.pdf.txt",
+  "Work_Title": "api/pg/Basilius Caesariensis_PG 29-32/Enarratio in prophetam Isaiam.pdf.txt",
+  "Fragment_Url": "api/fragments/#9-239",
+   "Occurences_List": [15,33,93],
+  "Maxfreq": 9
+}]
