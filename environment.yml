@@ -13,7 +13,8 @@ dependencies:
     - pandas
     - tensorflow
     - keras
-    - opencv-contrib-python==3.4.5.20
+    #- opencv-contrib-python==3.4.5.20
+    - opencv-python
     - pytesseract
     - scipy
     - sklearn
