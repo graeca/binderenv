@@ -10,6 +10,9 @@ dependencies:
   - go
   - pip:
     - matplotlib
+    - pandas
+    - tensorflow
+    - keras
     - opencv-contrib-python==3.4.5.20
     - pytesseract
     - scipy
