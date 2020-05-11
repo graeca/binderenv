@@ -6,17 +6,17 @@ dependencies:
   - python
   - numpy
   - pip
-  - tesseract
-  - go
+  #- tesseract
+  #- go
   - pip:
     - matplotlib
     - pandas
     - tensorflow
-    - keras
+    #- keras
     #- opencv-contrib-python==3.4.5.20
     - opencv-python
-    - pytesseract
+    #- pytesseract
     - scipy
     - sklearn
-    - dtw
-    - fastdtw
+    #- dtw
+    #- fastdtw
